@@ -1,7 +1,7 @@
 ## Olá, Eu sou João Vitor Alves de Oliveira 👋
 
- - 🚀 Trabalho com Técnico de Implantação Jr
- - 🚀 Front-End, Html, Css e Javascript
+ - 🚀 Trabalho como Técnico de Implantação Jr.
+ - 🚀 Front-End, Html, Css e Javascript.
  - 🚀 Contate-me no e-mail: jv.joaovitor.oliveira@gmail.com
 
 <div align="center">
@@ -16,3 +16,8 @@
   <img align="center" alt="Joao-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
+##
+ 
+ <div>
+   <a href="https://www.linkedin.com/in/joão-vitor-alves-de-oliveira-47233b190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
