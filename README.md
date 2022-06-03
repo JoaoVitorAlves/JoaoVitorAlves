@@ -1,7 +1,7 @@
-## Olá, Eu sou João Vitor Alves de Oliveira 👋
+## Olá, Eu sou João Vitor Alves de Oliveira 👻
 
  - 🚀 Trabalho como Técnico de Implantação Jr.
- - 🚀 Front-End, Html, Css e Javascript.
+ - 🚀 Front-End, Html, CSS e Javascript.
  - 🚀 Contate-me no e-mail: jv.joaovitor.oliveira@gmail.com
 
 <div align="center">
