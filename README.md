@@ -2,7 +2,8 @@
 
  - 🚀 Trabalho como Técnico de Implantação Jr.
  - 🚀 Front-End, Html, CSS e Javascript.
- - 🚀 Contate-me no e-mail: jv.joaovitor.oliveira@gmail.com
+
+##
 
 <div align="center">
   <a href="https://github.com/JoaoVitorAlves">
