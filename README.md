@@ -22,4 +22,5 @@
  <div>
    <a href="https://www.linkedin.com/in/joão-vitor-alves-de-oliveira-47233b190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+![Snake animation](https://github.com/JoaoVitorAlves/JoaoVitorAlves/blob/output/github-contribution-grid-snake.svg)
  </div>
