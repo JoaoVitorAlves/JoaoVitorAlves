@@ -1,6 +1,6 @@
 ## Olá, Eu sou João Vitor Alves de Oliveira 👻
 
- - 🚀 Trabalho como Técnico de Implantação Jr.
+ - 🚀 Trabalho como Técnico de Implantação.
  - 🚀 Front-End, Html, CSS e Javascript.
 
 ##
